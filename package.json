@@ -1,0 +1,7 @@
+{
+  "name": "zorvaina-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zorvaina agency website: static HTML frontend + Vercel serverless backend",
+  "engines": { "node": ">=18" }
+}
