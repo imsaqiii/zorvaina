@@ -1,1 +1,174 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b3a8a"/><stop offset="1" stop-color="#6d4bff"/></linearGradient><linearGradient id="sc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1330"/><stop offset="1" stop-color="#16225a"/></linearGradient><linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6ea8ff"/><stop offset="1" stop-color="#ffffff" stop-opacity=".85"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="40"/></filter><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".45"/></filter></defs><rect width="800" height="520" fill="url(#bg)"/><circle cx="120" cy="90" r="150" fill="#6ea8ff" opacity=".35" filter="url(#b)"/><circle cx="700" cy="460" r="170" fill="#ffffff" opacity=".18" filter="url(#b)"/><g filter="url(#s)"><rect x="150" y="70" width="500" height="320" rx="16" fill="#0a0f24"/><rect x="162" y="82" width="476" height="296" rx="8" fill="url(#sc)"/><rect x="162" y="82" width="476" height="22" rx="8" fill="#ffffff" opacity=".08"/><circle cx="176" cy="93" r="4" fill="#ff6b6b"/><circle cx="190" cy="93" r="4" fill="#ffd166"/><circle cx="204" cy="93" r="4" fill="#4ade80"/><text x="180" y="138" font-family="Arial,sans-serif" font-weight="700" font-size="26" fill="#fff">NovaTech</text><text x="180" y="160" font-family="Arial,sans-serif" font-size="12" fill="#b9c6ee">Digital storefront</text><rect x="180" y="174" width="92" height="26" rx="13" fill="url(#ac)"/><rect x="430" y="122" width="190" height="96" rx="12" fill="#6ea8ff" opacity=".5"/><circle cx="525" cy="170" r="30" fill="#fff" opacity=".85"/><rect x="180" y="236" width="104" height="110" rx="10" fill="#ffffff" opacity=".09"/><rect x="190" y="246" width="84" height="52" rx="6" fill="#6ea8ff" opacity="0.35"/><rect x="190" y="308" width="60" height="7" rx="3" fill="#fff" opacity=".7"/><rect x="190" y="322" width="40" height="6" rx="3" fill="#fff" opacity=".35"/><rect x="294" y="236" width="104" height="110" rx="10" fill="#ffffff" opacity=".09"/><rect x="304" y="246" width="84" height="52" rx="6" fill="#6ea8ff" opacity="0.44999999999999996"/><rect x="304" y="308" width="60" height="7" rx="3" fill="#fff" opacity=".7"/><rect x="304" y="322" width="40" height="6" rx="3" fill="#fff" opacity=".35"/><rect x="408" y="236" width="104" height="110" rx="10" fill="#ffffff" opacity=".09"/><rect x="418" y="246" width="84" height="52" rx="6" fill="#6ea8ff" opacity="0.55"/><rect x="418" y="308" width="60" height="7" rx="3" fill="#fff" opacity=".7"/><rect x="418" y="322" width="40" height="6" rx="3" fill="#fff" opacity=".35"/><rect x="522" y="236" width="104" height="110" rx="10" fill="#ffffff" opacity=".09"/><rect x="532" y="246" width="84" height="52" rx="6" fill="#6ea8ff" opacity="0.65"/><rect x="532" y="308" width="60" height="7" rx="3" fill="#fff" opacity=".7"/><rect x="532" y="322" width="40" height="6" rx="3" fill="#fff" opacity=".35"/></g><path d="M110 398 H690 L664 424 H136Z" fill="#cfd8f5" opacity=".9"/><rect x="330" y="398" width="140" height="8" rx="4" fill="#9aa8d6"/><g filter="url(#s)"><rect x="620" y="250" width="100" height="190" rx="16" fill="#0a0f24"/><rect x="626" y="258" width="88" height="174" rx="11" fill="url(#sc)"/><rect x="634" y="270" width="72" height="50" rx="7" fill="#6ea8ff" opacity=".6"/><rect x="634" y="330" width="50" height="6" rx="3" fill="#fff" opacity=".7"/><rect x="634" y="344" width="72" height="30" rx="6" fill="#fff" opacity=".1"/><rect x="634" y="382" width="72" height="30" rx="6" fill="#fff" opacity=".1"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">NovaTech — Modern E-commerce Website Portfolio</title>
+  <desc id="desc">A dark futuristic portfolio showcase for a responsive technology storefront, with a featured shopping homepage, product cards, category navigation, and mobile product and cart previews.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06111f"/><stop offset=".55" stop-color="#071a2d"/><stop offset="1" stop-color="#10102b"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2f6bff"/><stop offset="1" stop-color="#28c9f5"/></linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102c55"/><stop offset=".48" stop-color="#402f83"/><stop offset="1" stop-color="#ff9fbd"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1829"/><stop offset="1" stop-color="#101b31"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142941" stop-opacity=".96"/><stop offset="1" stop-color="#071321" stop-opacity=".98"/></linearGradient>
+    <linearGradient id="device" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce8ff"/><stop offset=".5" stop-color="#647eaa"/><stop offset="1" stop-color="#172941"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#247cff" stop-opacity=".4"/><stop offset="1" stop-color="#247cff" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000814" flood-opacity=".65"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="35"/></filter>
+    <style>
+      .ui{font-family:Inter,Arial,sans-serif;fill:#f4f8ff}.muted{font-family:Inter,Arial,sans-serif;fill:#9fb5d0}.tiny{font-family:Inter,Arial,sans-serif;font-size:10px;fill:#a8bed8}.label{font-family:Inter,Arial,sans-serif;font-size:12px;fill:#c8d9ee}.card{fill:#0b1727;stroke:#1a2d43;stroke-width:1}.line{stroke:#1e344c;stroke-width:1}
+    </style>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1180" cy="210" r="350" fill="url(#glow)"/>
+  <circle cx="220" cy="790" r="290" fill="url(#glow)" opacity=".4"/>
+  <path d="M0 760L180 610 295 700 420 550 550 680 710 570 840 720 1000 610 1180 770 1360 650 1600 780V1000H0Z" fill="#07101d" opacity=".75"/>
+  <path d="M0 850L220 720 360 810 540 690 730 850 910 720 1110 860 1320 730 1600 870" fill="none" stroke="#152b42" stroke-width="2" opacity=".65"/>
+
+  <!-- Portfolio identity panel -->
+  <g transform="translate(55 72)">
+    <path d="M0 9L25 0 45 12 20 23Z" fill="#36c8ff"/>
+    <path d="M0 9L20 23V57L0 43Z" fill="#2464ff"/>
+    <path d="M20 23L45 12V44L20 57Z" fill="#5b77ff"/>
+    <text x="62" y="40" class="ui" font-size="38" font-weight="750" letter-spacing="-1.4">NovaTech</text>
+    <text x="0" y="112" class="muted" font-size="22">A fast, modern storefront</text>
+    <text x="0" y="142" class="muted" font-size="22">built for product discovery.</text>
+    <g transform="translate(0 195)">
+      <circle cx="25" cy="25" r="25" fill="#142c4b" stroke="#254a77"/>
+      <path d="M29 7L16 27H25L20 43 36 21H27Z" fill="#7ddcff"/>
+      <text x="65" y="19" class="ui" font-size="16" font-weight="650">Fast Performance</text>
+      <text x="65" y="42" class="muted" font-size="13">Smooth, seamless experience</text>
+      <text x="65" y="60" class="muted" font-size="13">across all devices.</text>
+    </g>
+    <g transform="translate(0 293)">
+      <circle cx="25" cy="25" r="25" fill="#142c4b" stroke="#254a77"/>
+      <rect x="14" y="11" width="15" height="23" rx="2.5" fill="none" stroke="#d4efff" stroke-width="2"/>
+      <rect x="32" y="17" width="9" height="16" rx="2" fill="none" stroke="#67cfff" stroke-width="2"/>
+      <text x="65" y="19" class="ui" font-size="16" font-weight="650">Responsive Design</text>
+      <text x="65" y="42" class="muted" font-size="13">Looks perfect on every screen.</text>
+    </g>
+    <g transform="translate(0 376)">
+      <circle cx="25" cy="25" r="25" fill="#142c4b" stroke="#254a77"/>
+      <path d="M25 9L37 14V24C37 32 31 37 25 40 19 37 13 32 13 24V14Z" fill="none" stroke="#d4efff" stroke-width="2"/>
+      <path d="M19 24L23 28 31 19" fill="none" stroke="#65d9ff" stroke-width="2.5"/>
+      <text x="65" y="19" class="ui" font-size="16" font-weight="650">Secure Checkout</text>
+      <text x="65" y="42" class="muted" font-size="13">Shop with confidence.</text>
+    </g>
+    <g transform="translate(0 459)">
+      <circle cx="25" cy="25" r="25" fill="#142c4b" stroke="#254a77"/>
+      <path d="M25 8L29 20 41 25 29 29 25 42 21 29 9 25 21 20Z" fill="#d7f1ff"/>
+      <text x="65" y="19" class="ui" font-size="16" font-weight="650">Modern UI/UX</text>
+      <text x="65" y="42" class="muted" font-size="13">Clean, minimal, and engaging.</text>
+    </g>
+    <text x="0" y="660" class="ui" font-size="29" font-style="italic" font-family="Georgia,serif">Built for</text>
+    <text x="0" y="694" class="ui" font-size="29" font-style="italic" font-family="Georgia,serif">Better Shopping</text>
+    <path d="M0 710Q110 680 245 700" fill="none" stroke="#2f9fff" stroke-width="2"/>
+    <g transform="translate(8 765)">
+      <rect width="45" height="42" rx="8" fill="#17283b" stroke="#2a4159"/>
+      <text x="22" y="27" text-anchor="middle" class="ui" font-size="13" font-weight="700">HTML</text>
+      <rect x="62" width="45" height="42" rx="8" fill="#17283b" stroke="#2a4159"/>
+      <text x="84" y="27" text-anchor="middle" class="ui" font-size="13" font-weight="700">CSS</text>
+      <rect x="124" width="45" height="42" rx="8" fill="#17283b" stroke="#2a4159"/>
+      <text x="146" y="27" text-anchor="middle" class="ui" font-size="13" font-weight="700">JS</text>
+    </g>
+    <text x="0" y="842" class="muted" font-size="14">Simple  •  Fast  •  Modern</text>
+  </g>
+
+  <!-- Main browser window -->
+  <g filter="url(#shadow)" transform="translate(390 38)">
+    <rect width="700" height="914" rx="23" fill="#050b13" stroke="#36516d" stroke-width="1.5"/>
+    <rect x="1" y="1" width="698" height="56" rx="22" fill="#080f1b"/>
+    <path d="M1 34V57H699V34" fill="#080f1b"/>
+    <path d="M42 20L54 14 65 20 53 26Z" fill="#29baff"/><path d="M42 20L53 26V42L42 36Z" fill="#3168ff"/><path d="M53 26L65 20V36L53 42Z" fill="#6278ff"/>
+    <text x="74" y="32" class="ui" font-size="13" font-weight="700">NovaTech</text>
+    <text x="181" y="32" class="label">Home</text><text x="233" y="32" class="label">Shop</text><text x="278" y="32" class="label">About</text><text x="328" y="32" class="label">Contact</text>
+    <circle cx="602" cy="24" r="5" fill="none" stroke="#c4d9ef" stroke-width="1.5"/><path d="M606 28L611 33" stroke="#c4d9ef" stroke-width="1.5"/>
+    <circle cx="633" cy="22" r="4" fill="none" stroke="#c4d9ef" stroke-width="1.5"/><path d="M626 34Q633 26 640 34" fill="none" stroke="#c4d9ef" stroke-width="1.5"/>
+    <rect x="654" y="15" width="23" height="19" rx="5" fill="#123d61"/><path d="M659 19H663L666 29H673L676 21" fill="none" stroke="#72ddff" stroke-width="1.3"/><circle cx="665" cy="31" r="1.5" fill="#72ddff"/><circle cx="673" cy="31" r="1.5" fill="#72ddff"/>
+    <!-- hero banner -->
+    <rect x="1" y="57" width="698" height="330" fill="url(#hero)"/>
+    <circle cx="560" cy="128" r="190" fill="#5b8cff" opacity=".16"/>
+    <path d="M1 278Q140 230 260 286T500 262T699 240V387H1Z" fill="#07192c" opacity=".82"/>
+    <path d="M1 322Q180 285 330 331T699 305V387H1Z" fill="#06111d" opacity=".9"/>
+    <text x="42" y="103" font-family="Inter,Arial" font-size="11" font-weight="700" fill="#7ee4ff" letter-spacing="2">NEW ARRIVALS</text>
+    <text x="42" y="146" class="ui" font-size="32" font-weight="750">Discover</text>
+    <text x="42" y="181" class="ui" font-size="32" font-weight="750">The Latest</text>
+    <text x="42" y="216" font-family="Inter,Arial" font-size="32" font-weight="750" fill="#79d8ff">Tech &amp; Gadgets</text>
+    <text x="42" y="244" class="label" font-size="11">Smart devices to everyday essentials,</text><text x="42" y="261" class="label" font-size="11">find everything you need in one place.</text>
+    <rect x="42" y="282" width="112" height="34" rx="17" fill="url(#blue)"/><text x="57" y="303" class="ui" font-size="12" font-weight="700">Shop Now  →</text>
+    <!-- laptop -->
+    <g transform="translate(318 115)">
+      <path d="M57 15Q59 8 68 7L218 0Q226 0 226 9L222 140 54 148Z" fill="#020812" stroke="#718ab7" stroke-width="2"/>
+      <rect x="65" y="17" width="145" height="115" rx="4" fill="#102b62"/>
+      <path d="M65 107Q109 38 148 81T210 42V132H65Z" fill="#315aff"/>
+      <path d="M65 45Q130 110 167 19T210 68V132H65Z" fill="#8a5cff" opacity=".85"/>
+      <path d="M65 94Q103 80 125 38T210 89V132H65Z" fill="#20d4ff" opacity=".8"/>
+      <path d="M40 147L222 139 256 161Q260 165 250 168L17 174Q8 172 15 166Z" fill="url(#device)" stroke="#8299b7"/>
+      <path d="M110 148L172 145 185 155 97 158Z" fill="#243b5c"/>
+    </g>
+    <!-- earbuds and smartwatch -->
+    <g transform="translate(520 248)">
+      <rect x="0" y="20" width="57" height="48" rx="18" fill="#d5e1f2" stroke="#8298ba"/><path d="M15 28Q9 12 19 5Q28 3 29 14L30 38Q24 46 18 38Z" fill="#f4f7fc" stroke="#9badc8"/><path d="M39 28Q45 12 35 5Q26 3 25 14L24 38Q30 46 36 38Z" fill="#e8eff9" stroke="#9badc8"/>
+      <rect x="82" y="0" width="38" height="59" rx="11" fill="#1c2a3e" stroke="#91a8ca" stroke-width="2"/><rect x="87" y="8" width="28" height="42" rx="7" fill="#07101f"/><text x="101" y="25" text-anchor="middle" class="ui" font-size="10">10</text><text x="101" y="38" text-anchor="middle" class="ui" font-size="10">08</text>
+    </g>
+    <g><circle cx="331" cy="355" r="3.5" fill="#8c9cb7"/><circle cx="348" cy="355" r="3.5" fill="#e9f6ff"/><circle cx="365" cy="355" r="3.5" fill="#536b9b"/><circle cx="382" cy="355" r="3.5" fill="#536b9b"/></g>
+    <!-- categories -->
+    <g transform="translate(35 411)">
+      <g><rect width="94" height="102" rx="11" class="card"/><rect x="27" y="19" width="40" height="25" rx="3" fill="#203e65" stroke="#8cc9ff"/><path d="M22 48H72L65 53H29Z" fill="#a6c5ed"/><text x="47" y="79" text-anchor="middle" class="tiny">Laptops</text></g>
+      <g transform="translate(108)"><rect width="94" height="102" rx="11" class="card"/><rect x="34" y="16" width="27" height="39" rx="5" fill="#1d3d6d" stroke="#83caff"/><circle cx="47" cy="49" r="2" fill="#a8eaff"/><text x="47" y="79" text-anchor="middle" class="tiny">Smartphones</text></g>
+      <g transform="translate(216)"><rect width="94" height="102" rx="11" class="card"/><path d="M30 25Q30 9 47 9T64 25V43Q64 52 55 52H39Q30 52 30 43Z" fill="none" stroke="#8db8ee" stroke-width="6"/><path d="M32 35L22 50M62 35L72 50" stroke="#8db8ee" stroke-width="5"/><text x="47" y="79" text-anchor="middle" class="tiny">Headphones</text></g>
+      <g transform="translate(324)"><rect width="94" height="102" rx="11" class="card"/><rect x="32" y="22" width="30" height="40" rx="10" fill="#213653" stroke="#8ccaff"/><rect x="38" y="28" width="18" height="27" rx="5" fill="#091322"/><text x="47" y="79" text-anchor="middle" class="tiny">Smartwatches</text></g>
+      <g transform="translate(432)"><rect width="94" height="102" rx="11" class="card"/><circle cx="47" cy="33" r="18" fill="#213b5a" stroke="#6c9ccf"/><circle cx="47" cy="33" r="8" fill="#081322"/><text x="47" y="79" text-anchor="middle" class="tiny">Accessories</text></g>
+      <g transform="translate(540)"><rect width="94" height="102" rx="11" class="card"/><path d="M22 32Q20 22 29 21H65Q74 22 72 32L67 47Q64 53 58 48L47 40 36 48Q30 53 27 47Z" fill="#405778" stroke="#94b8e8"/><text x="47" y="79" text-anchor="middle" class="tiny">Gaming</text></g>
+    </g>
+    <text x="38" y="554" class="ui" font-size="19" font-weight="700">Featured Products</text><text x="38" y="575" class="muted" font-size="11">Top picks, best deals, and latest arrivals.</text><text x="625" y="562" class="label" font-size="11">View All →</text>
+    <!-- product cards -->
+    <g transform="translate(38 596)">
+      <g><rect width="145" height="190" rx="12" class="card"/><rect x="12" y="12" width="39" height="17" rx="8" fill="#1a9fe0"/><text x="31" y="24" text-anchor="middle" class="ui" font-size="9">New</text><rect x="33" y="47" width="79" height="52" rx="3" fill="#172d4d" stroke="#5a8bc2"/><path d="M37 88Q62 46 81 77T108 57V96H37Z" fill="#6c4dff"/><path d="M25 101H121L110 108H36Z" fill="#a2bddf"/><text x="12" y="131" class="ui" font-size="11" font-weight="650">MacBook Air M2</text><text x="12" y="147" class="muted" font-size="10">Apple</text><text x="12" y="169" class="ui" font-size="13" font-weight="700">$1,099</text><text x="12" y="183" fill="#ffce63" font-size="10">★ 4.8 <tspan fill="#8ea5c0">(124)</tspan></text><rect x="115" y="157" width="22" height="22" rx="6" fill="#102945" stroke="#2673a9"/><path d="M120 163H124L127 172H133L135 166" fill="none" stroke="#8ddcff" stroke-width="1.2"/></g>
+      <g transform="translate(157)"><rect width="145" height="190" rx="12" class="card"/><rect x="12" y="12" width="42" height="17" rx="8" fill="#1a9fe0"/><text x="33" y="24" text-anchor="middle" class="ui" font-size="9">-15%</text><rect x="48" y="46" width="48" height="70" rx="8" fill="url(#device)" stroke="#829fca"/><circle cx="61" cy="58" r="5" fill="#1a2c45"/><circle cx="75" cy="58" r="5" fill="#1a2c45"/><text x="12" y="131" class="ui" font-size="11" font-weight="650">iPhone 15 Pro</text><text x="12" y="147" class="muted" font-size="10">Apple</text><text x="12" y="169" class="ui" font-size="13" font-weight="700">$999</text><text x="12" y="183" fill="#ffce63" font-size="10">★ 4.7 <tspan fill="#8ea5c0">(98)</tspan></text><rect x="115" y="157" width="22" height="22" rx="6" fill="#102945" stroke="#2673a9"/><path d="M120 163H124L127 172H133L135 166" fill="none" stroke="#8ddcff" stroke-width="1.2"/></g>
+      <g transform="translate(314)"><rect width="145" height="190" rx="12" class="card"/><path d="M47 54Q47 33 72 33T97 54V79Q97 91 84 91H60Q47 91 47 79Z" fill="none" stroke="#7b9cc8" stroke-width="8"/><path d="M50 70L35 94M94 70L109 94" stroke="#7b9cc8" stroke-width="7"/><text x="12" y="131" class="ui" font-size="11" font-weight="650">Sony WH-1000XM5</text><text x="12" y="147" class="muted" font-size="10">Sony</text><text x="12" y="169" class="ui" font-size="13" font-weight="700">$349</text><text x="12" y="183" fill="#ffce63" font-size="10">★ 4.9 <tspan fill="#8ea5c0">(76)</tspan></text><rect x="115" y="157" width="22" height="22" rx="6" fill="#102945" stroke="#2673a9"/><path d="M120 163H124L127 172H133L135 166" fill="none" stroke="#8ddcff" stroke-width="1.2"/></g>
+      <g transform="translate(471)"><rect width="145" height="190" rx="12" class="card"/><rect x="55" y="45" width="37" height="49" rx="11" fill="#283f5b" stroke="#82b9e8"/><rect x="61" y="52" width="25" height="34" rx="6" fill="#071321"/><text x="73" y="67" text-anchor="middle" fill="#8cfff2" font-size="8">10:08</text><text x="12" y="131" class="ui" font-size="11" font-weight="650">Galaxy Watch 6</text><text x="12" y="147" class="muted" font-size="10">Samsung</text><text x="12" y="169" class="ui" font-size="13" font-weight="700">$269</text><text x="12" y="183" fill="#ffce63" font-size="10">★ 4.6 <tspan fill="#8ea5c0">(65)</tspan></text><rect x="115" y="157" width="22" height="22" rx="6" fill="#102945" stroke="#2673a9"/><path d="M120 163H124L127 172H133L135 166" fill="none" stroke="#8ddcff" stroke-width="1.2"/></g>
+    </g>
+    <rect x="38" y="810" width="624" height="78" rx="12" fill="#101e38" stroke="#34467c"/>
+    <rect x="38" y="810" width="624" height="78" rx="12" fill="url(#hero)" opacity=".5"/>
+    <text x="58" y="841" class="ui" font-size="16" font-weight="700">Smart Tech</text><text x="58" y="860" class="ui" font-size="16" font-weight="700">for a Better Tomorrow</text><text x="58" y="876" class="label" font-size="9">Upgrade your lifestyle with the latest innovation.</text>
+    <rect x="435" y="831" width="55" height="37" rx="4" fill="#182b51" stroke="#8ca9ff"/><path d="M440 859Q458 827 485 847V864H440Z" fill="#6d5aff"/><rect x="507" y="825" width="26" height="46" rx="8" fill="#192b42" stroke="#a5c7ef"/><rect x="512" y="832" width="16" height="31" rx="4" fill="#071321"/>
+    <rect x="58" y="0" width="0" height="0" fill="none"/>
+  </g>
+
+  <!-- Right-side mobile and detail panels -->
+  <g filter="url(#shadow)" transform="translate(1122 61) rotate(3)">
+    <rect width="420" height="382" rx="19" fill="#050b13" stroke="#34516d" stroke-width="1.5"/>
+    <rect x="1" y="1" width="418" height="44" rx="18" fill="#080f1b"/>
+    <path d="M1 27V45H419V27" fill="#080f1b"/>
+    <path d="M23 17L32 12 40 17 31 22Z" fill="#35c9ff"/><text x="47" y="23" class="ui" font-size="10" font-weight="700">NovaTech</text>
+    <text x="143" y="23" class="tiny">Home</text><text x="179" y="23" class="tiny">Shop</text><text x="211" y="23" class="tiny">About</text><text x="246" y="23" class="tiny">Contact</text>
+    <text x="22" y="72" class="ui" font-size="20" font-weight="700">Shop</text><text x="22" y="91" class="muted" font-size="10">Browse our latest products and find what you love.</text>
+    <rect x="22" y="109" width="107" height="244" rx="9" fill="#0b1727" stroke="#1a2d43"/>
+    <text x="33" y="131" class="ui" font-size="10" font-weight="700">Categories</text>
+    <g class="tiny"><text x="34" y="153">□  Laptops</text><text x="34" y="174">□  Smartphones</text><text x="34" y="195">□  Smartwatches</text><text x="34" y="216">□  Accessories</text><text x="34" y="237">□  Gaming</text></g>
+    <text x="33" y="270" class="ui" font-size="10" font-weight="700">Price Range</text><path d="M34 288H115" stroke="#2f8dff" stroke-width="3"/><circle cx="83" cy="288" r="5" fill="#8be7ff"/>
+    <text x="33" y="314" class="ui" font-size="10" font-weight="700">Brand</text><text x="34" y="333" class="tiny">□ Apple</text><text x="34" y="347" class="tiny">□ Samsung</text>
+    <g transform="translate(141 109)">
+      <g><rect width="122" height="112" rx="9" class="card"/><rect x="30" y="17" width="62" height="40" rx="3" fill="#1a3560" stroke="#7ac9ff"/><path d="M34 48Q55 20 87 40V54H34Z" fill="#5d5cff"/><text x="11" y="76" class="ui" font-size="10" font-weight="650">MacBook Air M2</text><text x="11" y="92" class="label" font-size="10">$1,099</text><text x="11" y="105" fill="#ffce63" font-size="9">★ 4.8</text></g>
+      <g transform="translate(133)"><rect width="122" height="112" rx="9" class="card"/><rect x="40" y="13" width="42" height="52" rx="7" fill="url(#device)"/><circle cx="52" cy="25" r="5" fill="#17263c"/><circle cx="66" cy="25" r="5" fill="#17263c"/><text x="11" y="76" class="ui" font-size="10" font-weight="650">iPhone 15 Pro</text><text x="11" y="92" class="label" font-size="10">$999</text><text x="11" y="105" fill="#ffce63" font-size="9">★ 4.7</text></g>
+      <g transform="translate(0 122)"><rect width="122" height="112" rx="9" class="card"/><path d="M39 29Q39 14 61 14T83 29V44Q83 54 72 54H50Q39 54 39 44Z" fill="none" stroke="#86a7d5" stroke-width="6"/><text x="11" y="76" class="ui" font-size="10" font-weight="650">Sony Headphones</text><text x="11" y="92" class="label" font-size="10">$349</text><text x="11" y="105" fill="#ffce63" font-size="9">★ 4.9</text></g>
+      <g transform="translate(133 122)"><rect width="122" height="112" rx="9" class="card"/><path d="M42 27L82 27 91 39 81 51 43 51 33 39Z" fill="#cbd8e9"/><circle cx="46" cy="38" r="4" fill="#18263b"/><circle cx="78" cy="38" r="4" fill="#18263b"/><text x="11" y="76" class="ui" font-size="10" font-weight="650">Gaming Console</text><text x="11" y="92" class="label" font-size="10">$499</text><text x="11" y="105" fill="#ffce63" font-size="9">★ 4.6</text></g>
+    </g>
+  </g>
+  <g filter="url(#shadow)" transform="translate(1135 478) rotate(2)">
+    <rect width="405" height="252" rx="18" fill="#050b13" stroke="#34516d" stroke-width="1.5"/>
+    <rect x="1" y="1" width="403" height="38" rx="17" fill="#080f1b"/>
+    <path d="M1 24V39H404V24" fill="#080f1b"/>
+    <path d="M20 15L29 10 37 15 28 20Z" fill="#35c9ff"/><text x="44" y="21" class="ui" font-size="10" font-weight="700">NovaTech</text><text x="133" y="21" class="tiny">Home</text><text x="170" y="21" class="tiny">Shop</text><text x="205" y="21" class="tiny">About</text>
+    <text x="22" y="59" class="tiny">Home  ›  Smartphones  ›  iPhone 15 Pro</text>
+    <rect x="22" y="75" width="145" height="120" rx="8" fill="#d9e3ef"/>
+    <rect x="60" y="87" width="52" height="89" rx="9" fill="#b7c5d7" stroke="#657c9a"/><rect x="66" y="93" width="40" height="76" rx="6" fill="#e3e9f0"/><circle cx="77" cy="105" r="6" fill="#26364b"/><circle cx="93" cy="105" r="6" fill="#26364b"/><circle cx="77" cy="121" r="6" fill="#26364b"/>
+    <text x="185" y="91" class="ui" font-size="17" font-weight="700">iPhone 15 Pro</text><text x="185" y="108" class="muted" font-size="10">Apple</text><text x="185" y="132" fill="#69d8ff" font-size="15" font-weight="700">$999</text><text x="185" y="148" fill="#ffce63" font-size="10">★ 4.7 <tspan fill="#8ea5c0">(98 reviews)</tspan></text>
+    <text x="185" y="169" class="tiny">Color:  ●  ●  ●  ●</text><rect x="185" y="181" width="83" height="28" rx="14" fill="#132d4c" stroke="#2c70c7"/><text x="226" y="199" text-anchor="middle" class="ui" font-size="10">−   1   +</text><rect x="276" y="181" width="108" height="28" rx="14" fill="url(#blue)"/><text x="330" y="199" text-anchor="middle" class="ui" font-size="10" font-weight="700">Add to Cart</text>
+    <path d="M22 218H383" class="line"/><text x="22" y="237" class="tiny">♧ Free Shipping</text><text x="145" y="237" class="tiny">◷ 24/7 Support</text><text x="279" y="237" class="tiny">♢ Secure Payment</text>
+  </g>
+  <g filter="url(#shadow)" transform="translate(1135 754) rotate(1.5)">
+    <rect width="405" height="194" rx="18" fill="#050b13" stroke="#34516d" stroke-width="1.5"/>
+    <rect x="1" y="1" width="403" height="38" rx="17" fill="#080f1b"/><path d="M1 24V39H404V24" fill="#080f1b"/>
+    <path d="M20 15L29 10 37 15 28 20Z" fill="#35c9ff"/><text x="44" y="21" class="ui" font-size="10" font-weight="700">NovaTech</text><text x="22" y="59" class="ui" font-size="17" font-weight="700">Your Cart</text><text x="22" y="76" class="muted" font-size="9">Review your items before checkout.</text>
+    <rect x="18" y="88" width="231" height="88" rx="8" fill="#0c1929" stroke="#1c3047"/><rect x="30" y="100" width="39" height="31" rx="4" fill="#d4deec"/><rect x="44" y="103" width="15" height="25" rx="3" fill="#7187a5"/><text x="80" y="109" class="ui" font-size="10">iPhone 15 Pro</text><text x="80" y="123" class="muted" font-size="9">$999</text><text x="209" y="116" class="ui" font-size="10">−  1  +</text><path d="M29 139H237" class="line"/><circle cx="49" cy="156" r="12" fill="#223c5c"/><path d="M40 155Q40 145 49 145T58 155V162H40Z" fill="none" stroke="#9bc9ed" stroke-width="2"/><text x="80" y="153" class="ui" font-size="10">Sony Headphones</text><text x="80" y="166" class="muted" font-size="9">$349</text>
+    <rect x="261" y="88" width="126" height="88" rx="8" fill="#0c1929" stroke="#1c3047"/><text x="272" y="106" class="ui" font-size="11" font-weight="700">Order Summary</text><text x="272" y="125" class="tiny">Subtotal</text><text x="375" y="125" text-anchor="end" class="label" font-size="10">$1,348</text><text x="272" y="140" class="tiny">Shipping</text><text x="375" y="140" text-anchor="end" class="label" font-size="10">Free</text><path d="M272 147H376" class="line"/><text x="272" y="161" class="ui" font-size="10" font-weight="700">Total</text><text x="375" y="161" text-anchor="end" class="ui" font-size="11" font-weight="700">$1,348</text>
+  </g>
+</svg>
